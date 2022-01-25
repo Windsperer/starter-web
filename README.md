@@ -18,4 +18,4 @@ Please do something xd
 
 ## Copyright 
 
-Cuidao
+Cuidao. Binguido Bónguidi
