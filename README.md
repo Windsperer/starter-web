@@ -11,3 +11,7 @@ Más frases de Smith.
 ## How to contribute
 
 Buenísimas tardes
+
+## Copyright 
+
+Cuidao
